@@ -1,0 +1,41 @@
+body{
+  margin-top: 0px;
+  background-color: #116D6E;
+}
+
+h1{
+  margin-top: 0%;
+  margin-left: 0;
+  margin-right: 0;
+  text-align: center;
+  font-size: 5rem;
+  color: black;
+  font-family: Brush Script MT, Brush Script Std, cursive;
+  font-weight: 100;
+}
+p{
+  font-size: 50px;
+  margin-bottom: 0px;
+  margin-top: 0%;
+  text-align: center;
+  font-family: Chalkduster, fantasy;
+  font-weight: 10;
+}
+.containor{
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+img{
+  height: 300px;
+  width: 300px;
+}
+
+footer{
+  margin-top: 50px;
+  margin-bottom: 0px;
+  font-size: larger;
+  text-align: center;
+}
